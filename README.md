@@ -7,7 +7,7 @@
 
 ## :computer: **Sobre**
 
-Desafio pratico de criação do Jogo Naves, cujo o seu objetivo é acertar a sequência de cores gerada aleatóriamente o máximo que o jogador conseguir. 
+Desafio pratico de criação do Jogo Naves. 
 
 ## :memo: **Roteiro**
 
